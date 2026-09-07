@@ -1,3 +1,4 @@
+Streamlit link:https://support-pearlz-zgtyqewawdtbv5dc5qrlv2.streamlit.app/
 # SupportPearlz RAG Assistant
 
 An advanced, production-grade Retrieval-Augmented Generation (RAG) customer support assistant built for Pearlz Home Systems using LangChain, OpenAI (`gpt-4o-mini`), FAISS, and Streamlit.
