@@ -1,0 +1,2 @@
+# Pearlz Home Systems - Extended Warranty Terms
+Customers can purchase an optional Extended Warranty within 60 days of product purchase. The extended plan adds an additional 24 months of coverage to the standard manufacturer warranty, bringing total coverage to 48 months. It includes one free annual maintenance checkup and discounted replacement filters.

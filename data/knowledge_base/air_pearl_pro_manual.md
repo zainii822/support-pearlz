@@ -1,0 +1,2 @@
+# AirPearl Pro Air Purifier Manual
+Designed for rooms up to 500 square feet, the AirPearl Pro utilizes a True HEPA H13 filter combined with an activated carbon layer. It features 4 fan speeds, a digital air quality ring indicator (Green = Good, Yellow = Moderate, Red = Poor), and operates at a whisper-quiet 24 dB on sleep mode.

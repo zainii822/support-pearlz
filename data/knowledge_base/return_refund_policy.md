@@ -1,0 +1,2 @@
+# Pearlz Home Systems - Return and Refund Policy
+Customers may return unopened or unused hardware products within 30 days of the original purchase date for a full refund. Items must be in their original packaging with all seals intact. Opened filter cartridges or damaged units are subject to a restocking fee or may be ineligible for return unless deemed defective under manufacturer warranty.

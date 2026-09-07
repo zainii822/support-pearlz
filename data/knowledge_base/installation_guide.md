@@ -1,0 +1,2 @@
+# Pearlz Home Systems - General Installation Guide
+Professional installation is recommended for all Pearlz water purification and smart climate control units. Ensure the main power supply is turned off before attempting any electrical wiring. Water inlet pressure must not exceed 60 PSI for purification systems. Refer to specific device manuals for step-by-step mounting instructions.

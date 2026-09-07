@@ -1,0 +1,2 @@
+# Pearlz Smart Thermostat Installation & Operation Manual
+The Pearlz Smart Thermostat is compatible with 95% of 24V heating and cooling systems. C-wire (Common wire) is strictly required for stable Wi-Fi connectivity and continuous power. Connect the device to the companion mobile app via Bluetooth during initial setup to enable voice assistant integration.

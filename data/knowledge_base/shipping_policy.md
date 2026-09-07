@@ -1,0 +1,2 @@
+# Pearlz Home Systems - Shipping Policy
+All orders of Pearlz Home Systems products are processed within 2 to 3 business days. Standard shipping within the domestic region takes 5-7 business days. Expedited shipping options are available at checkout for an additional fee. Tracking numbers are emailed automatically once items are dispatched from our central warehouse in Lahore.

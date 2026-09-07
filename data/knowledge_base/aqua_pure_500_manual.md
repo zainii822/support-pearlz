@@ -1,0 +1,2 @@
+# AquaPure 500 User Manual
+The AquaPure 500 features a 5-stage reverse osmosis filtration system. It has a daily production capacity of 50 gallons and operates on a standard 24V DC power adapter (included in the box). Tank storage capacity is 3.2 gallons. Filter replacement interval is recommended every 6 months under normal water quality conditions.
